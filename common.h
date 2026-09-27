@@ -1,0 +1,9 @@
+#ifndef COMMON_HEADER
+#define COMMON_HEADER
+
+#define PORT_NUMBER 9000
+#define SESSION_KEY_SIZE 32
+#define GCM_NONCE_SIZE 12
+#define GCM_TAG_SIZE 16
+
+#endif
